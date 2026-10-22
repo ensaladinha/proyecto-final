@@ -213,15 +213,6 @@ pygame>=2.5
 - 🗺️ **Nuevos escenarios** (espacio, ciudad cyberpunk, laboratorio).
 - 🏆 **Logros** ("Derrotá 3 jefes", "Sobreviví 5 minutos sin recibir daño").
 
----
-
-## 👤 10. Autor
-
-- **Nombre:** _(completar)_
-- **Curso / Materia:** _(completar)_
+- **Nombre:** lorenzo brodsky
+- **Curso / Materia:** 3°I Programacion
 - **Proyecto:** Proyecto Final de Python
-- **Año:** 2026
-
----
-
-> *"Un buen juego no se mide por sus gráficos, sino por las ganas de volver a jugar."* 🎮
