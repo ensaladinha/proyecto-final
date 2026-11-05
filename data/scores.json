@@ -1,0 +1,172 @@
+{
+    "high_scores": [
+        {
+            "name": "JUGADOR",
+            "score": 10970,
+            "time": "09:39",
+            "mejoras": [
+                {
+                    "doble": 3,
+                    "cadencia": 4,
+                    "perforante": 1,
+                    "nanobots": 1,
+                    "vida": 1,
+                    "iman": 1
+                }
+            ]
+        },
+        {
+            "name": "ALE",
+            "score": 7409,
+            "time": "04:35",
+            "mejoras": [
+                {
+                    "doble": 4,
+                    "turbo": 1,
+                    "cadencia": 2,
+                    "vida": 1
+                }
+            ]
+        },
+        {
+            "name": "JUGADOR",
+            "score": 2904,
+            "time": "03:05",
+            "mejoras": [
+                {
+                    "escudo": 1,
+                    "vida": 1,
+                    "cadencia": 2,
+                    "nanobots": 1,
+                    "doble": 2
+                }
+            ]
+        },
+        {
+            "name": "NAR",
+            "score": 2650,
+            "time": "02:03",
+            "mejoras": [
+                {
+                    "escudo": 1,
+                    "iman": 1,
+                    "doble": 2,
+                    "perforante": 1
+                }
+            ]
+        },
+        {
+            "name": "JUGADOR",
+            "score": 2566,
+            "time": "02:28"
+        },
+        {
+            "name": "JUGADOR",
+            "score": 1659,
+            "time": "01:53",
+            "mejoras": [
+                {
+                    "vida": 1,
+                    "cadencia": 1,
+                    "estabilizador": 1,
+                    "doble": 1
+                }
+            ]
+        },
+        {
+            "name": "JUGADOR",
+            "score": 1594,
+            "time": "01:48"
+        },
+        {
+            "name": "JUGADOR",
+            "score": 1346,
+            "time": "01:18",
+            "mejoras": [
+                {
+                    "cadencia": 1,
+                    "espejo": 1,
+                    "doble": 2,
+                    "termica": 1
+                }
+            ]
+        },
+        {
+            "name": "JUGADOR",
+            "score": 1303,
+            "time": "01:15"
+        },
+        {
+            "name": "JUGADOR",
+            "score": 1231,
+            "time": "01:11"
+        }
+    ],
+    "high_scores_coop": [
+        {
+            "name": "LAU",
+            "score": 29682,
+            "time": "19:36",
+            "mejoras": [
+                {
+                    "nanobots": 2,
+                    "hipercargador": 2,
+                    "doble": 4,
+                    "escudo": 1,
+                    "dash": 2,
+                    "termica": 1,
+                    "vida": 3,
+                    "ancla": 1,
+                    "cadencia": 3,
+                    "iman": 1
+                },
+                {
+                    "nanobots": 1,
+                    "vida": 1,
+                    "ancla": 1,
+                    "doble": 3,
+                    "cadencia": 1,
+                    "iman": 1
+                }
+            ]
+        },
+        {
+            "name": "LYA",
+            "score": 8929,
+            "time": "05:12",
+            "mejoras": [
+                {
+                    "vida": 2,
+                    "cadencia": 5,
+                    "nanobots": 1,
+                    "doble": 4,
+                    "perforante": 2
+                },
+                {
+                    "doble": 2,
+                    "cadencia": 4
+                }
+            ]
+        },
+        {
+            "name": "LYL",
+            "score": 2243,
+            "time": "01:44",
+            "mejoras": [
+                {
+                    "vida": 2,
+                    "critico": 1,
+                    "cadencia": 1
+                },
+                {
+                    "vida": 3,
+                    "escudo": 1,
+                    "dash": 1,
+                    "hipercargador": 1,
+                    "critico": 1,
+                    "cadencia": 1
+                }
+            ]
+        }
+    ]
+}

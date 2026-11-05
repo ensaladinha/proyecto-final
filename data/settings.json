@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "volumen": 0.65,
+    "vibracion": true,
+    "iniciales": "NAR",
+    "controles1": {
+        "arriba": 119,
+        "abajo": 115,
+        "izquierda": 97,
+        "derecha": 100,
+        "dash": 32
+    },
+    "controles2": {
+        "arriba": 1073741906,
+        "abajo": 1073741905,
+        "izquierda": 1073741904,
+        "derecha": 1073741903,
+        "dash": 13
+    }
+}
